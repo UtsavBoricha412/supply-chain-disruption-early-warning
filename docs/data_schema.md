@@ -89,3 +89,10 @@ Weekly regional risk indicators.
 | port_congestion | float | 0-1 scale |
 | fuel_price_volatility | float | Coefficient of variation |
 | pandemic_restriction_level | int | 0-5 scale |
+
+external_factors
+- week_id
+- region
+- weather_severity
+- geopolitical_risk
+- port_congestion
